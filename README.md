@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lee-emqx
+- 👋 Hi, I’m xinyi
 - 👀 I’m interested in kernel and network
 - 🌱 I’m currently learning SOME/IP protocol
 - 💞️ I’m looking to collaborate on ...
